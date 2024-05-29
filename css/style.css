@@ -167,6 +167,11 @@ a:hover {
   color: #e83e3e;
 }
 
+.nav-link:hover {
+  text-decoration: none;
+  color: #e83e3e;
+}
+
 button, input[type=submit] {
   cursor: pointer;
 }
